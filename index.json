@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "skills",
+  "versions": [
+    {
+      "commit": "25910b3d0ba31a2ba102f901cdc9e008c278a69c",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:42:34.177042+00:00"
+    }
+  ]
+}
